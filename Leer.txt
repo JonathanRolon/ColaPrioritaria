@@ -1,0 +1,3 @@
+# ColaPrioritaria
+Es una clase que consta de un TDA arbol heap de minimo, un pequenio TDA elemento que tiene una clave y una prioridad, y la cola con prioridad
+ademas  un main para ver como se usa(facil) acolar y desacolar
